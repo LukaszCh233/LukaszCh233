@@ -1,6 +1,6 @@
 # 👋 Cześć! Jestem Łukasz
 
-🎯 **Ambitny i zaangażowany entuzjasta programowania i nowych technologii z 2-letnim doświadczeniem w samodzielnej nauce oraz praktycznym programowaniu w Javie. Z pasją uczę się nowych narzędzi i technologii – obecnie rozwijam się zarówno jako backend developer, jak i początkujący analityk danych. Moim celem jest zdobycie pierwszego doświadczenia zawodowego w branży IT, gdzie będę mógł rozwijać się poprzez udział w realnych projektach i współpracę z zespołem technologicznym.
+🎯 Ambitny i zaangażowany entuzjasta programowania i nowych technologii z 2-letnim doświadczeniem w samodzielnej nauce oraz praktycznym programowaniu w Javie. Z pasją uczę się nowych narzędzi i technologii – obecnie rozwijam się zarówno jako backend developer, jak i początkujący analityk danych. Moim celem jest zdobycie pierwszego doświadczenia zawodowego w branży IT, gdzie będę mógł rozwijać się poprzez udział w realnych projektach i współpracę z zespołem technologicznym.
 
 ## 💼 O mnie
 - 💻 Od dwóch lat uczę się programowania samodzielnie, z naciskiem na **Java** oraz **Spring Boot**.
