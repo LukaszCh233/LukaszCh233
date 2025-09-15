@@ -1,8 +1,6 @@
 # 👋 Cześć! Jestem Łukasz
 
-🎯 **Ambitny i zaangażowany pasjonat technologii z 2-letnim doświadczeniem w samodzielnej nauce oraz praktycznym programowaniu w Javie.**  
-Z pasją podchodzę do nauki nowych narzędzi i technologii – obecnie rozwijam się zarówno jako backend developer, jak i początkujący analityk danych. Moim celem jest zdobycie pierwszego doświadczenia zawodowego w branży IT, gdzie będę mógł rozwijać się poprzez realne projekty i współpracę z zespołem.
-chnologicznym.
+🎯 **Ambitny i zaangażowany entuzjasta programowania i nowych technologii z 2-letnim doświadczeniem w samodzielnej nauce oraz praktycznym programowaniu w Javie. Z pasją uczę się nowych narzędzi i technologii – obecnie rozwijam się zarówno jako backend developer, jak i początkujący analityk danych. Moim celem jest zdobycie pierwszego doświadczenia zawodowego w branży IT, gdzie będę mógł rozwijać się poprzez udział w realnych projektach i współpracę z zespołem technologicznym.
 
 ## 💼 O mnie
 - 💻 Od dwóch lat uczę się programowania samodzielnie, z naciskiem na **Java** oraz **Spring Boot**.
@@ -19,12 +17,13 @@ chnologicznym.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![SQL](https://img.shields.io/badge/-SQL-%2300ADD8?style=flat)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apache-maven)
 ![REST API](https://img.shields.io/badge/-REST%20API-%2300ADD8?style=flat)
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=java)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)
+
 
   
 ## 📂 Projekty
